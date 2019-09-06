@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\c++_projects\project5\project5\source.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project5.vcxproj -> D:\C++_Projects\Project5\Debug\Project5.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++_Projects\arrayTest\Source.cpp(17,23): warning C4244:  'argument': conversion from 'float' to 'std::array<float,5>::size_type', possible loss of data
+  arrayTest.vcxproj -> D:\C++_Projects\Chapter6Quiz\Debug\arrayTest.exe
